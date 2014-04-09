@@ -1,0 +1,42 @@
+body{
+  background-image:url(http://media-cache-ec0.pinimg.com/736x/84/35/62/8435620dd16cc36da102f4ec8baeaa85.jpg); 
+  background-repeat: repeat; 
+  border-radius: 80px;
+  box-shadow: #808080 0px 15px 15px 15px;
+  padding: 2em;
+  font-family: "Calibri Neue" , Calibri , Arial , sans-serif;
+  height:3000px;
+  width:550px;
+  margin: auto;
+  margin-top:20px;
+  margin-bottom:20px;
+
+}
+
+
+
+  .menu ul li { 
+    display: inline; 
+    }
+
+  .menu ul li a {
+    
+        font-size : 10px;
+        color : #000;
+        float: left;
+        padding: 30px 40px;
+        letter-spacing: 1px;
+        color: #000;
+        text-decoration:underline;
+
+}
+
+
+
+h2{
+
+      padding-top: 1em;
+      border-bottom: 2px solid;
+      border-bottom-color: #000;
+            margin-bottom:1em;
+}
